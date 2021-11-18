@@ -51,3 +51,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Allaisa&show_icons=true&hide_border=true" />
 
 </details>
+
+[https://strike-yt.netlify.app/]: https://strike-yt.netlify.app/
+[https://strikeyt.netlify.app/]: https://strikeyt.netlify.app/
+[youtube]: https://www.youtube.com/channel/UC6QnV_t2zZ3IhaLydounAlQ
