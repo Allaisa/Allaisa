@@ -1,4 +1,4 @@
-### Hi there, I'm Allaissa - aka [Sтʀɪᴋɛ '][https://strike-yt.netlify.app/] 👋 
+### Hi there, I'm Allaissa - aka [Sтʀɪᴋɛ '](https://strike-yt.netlify.app/) 👋 
 
 [![Website](https://img.shields.io/website?label=strike-yt.com&style=for-the-badge&url=https://strike-yt.netlify.app/)](https://strike-yt.netlify.app/)
 [![My other Website](https://img.shields.io/website?label=strikeyt.com&style=for-the-badge&url=https://strikeyt.netlify.app/)](https://strikeyt.netlify.app/)
