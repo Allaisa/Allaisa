@@ -36,7 +36,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ Inputed a README.md on my account [Allaisa/README.md](https://github.com/Allaisa)
+1. ℹ Inputed a README.md on my account [/Allaisa](https://github.com/Allaisa)
 2. 🗑 Deleted One of my unnecessary Repos [/Allaisa/strike-yt/](https://github.com/Allaisa/strike-yt/settings)
 3. ❗️ Re-made my **Private** Repo For one of my Websites [Allaisa/strikeytofficialwebsite](https://github.com/Allaisa/strikeytofficial)
 4. ✅ Created a **Private** Repo for My project [/Allaisa/calculator](https://github.com/Allaisa/rinda-calculator)
