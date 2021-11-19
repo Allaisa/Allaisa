@@ -14,6 +14,8 @@
 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6QnV_t2zZ3IhaLydounAlQ?color=%23ff2828&label=YOUTUBE&logo=YouTube&logoColor=%23ff3d3d&style=for-the-badge)
+<br>
+
 ![Discord](https://img.shields.io/discord/847156936944254997?color=%23ff38f8&label=Strikes%27s%20Magical%20World&logo=Discord&logoColor=%230066ff&style=for-the-badge)
 <!-- [<img align="left" alt="strike-yt.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://strike-yt.netlify.app/) -->
 <!-- [<img align="left" alt="Sтʀɪᴋɛ ' | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC6QnV_t2zZ3IhaLydounAlQ) -->
