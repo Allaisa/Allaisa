@@ -37,10 +37,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ Inputed a README.md on my account [/Allaisa/Allaisa](https://github.com/Allaisa)
-2. 🗑 Deleted One of my unnecessary Repos [/Allaisa/strike-yt/](https://github.com/Allaisa/strike-yt/settings)
-3. ❗️ Re-made my **Private** Repo For one of my Websites [Allaisa/strikeytofficialwebsite](https://github.com/Allaisa/strikeytofficial)
-4. ✅ Created a **Private** Repo for My project [/Allaisa/calculator](https://github.com/Allaisa/rinda-calculator)
+1. ❗️ Reopened issue [#13](https://github.com/WebDevSimplified/Nodejs-Passport-Login/issues/13) in [WebDevSimplified/Nodejs-Passport-Login](https://github.com/WebDevSimplified/Nodejs-Passport-Login)
+2. ❗️ Closed issue [#13](https://github.com/WebDevSimplified/Nodejs-Passport-Login/issues/13) in [WebDevSimplified/Nodejs-Passport-Login](https://github.com/WebDevSimplified/Nodejs-Passport-Login)
+3. ❗️ Opened issue [#13](https://github.com/WebDevSimplified/Nodejs-Passport-Login/issues/13) in [WebDevSimplified/Nodejs-Passport-Login](https://github.com/WebDevSimplified/Nodejs-Passport-Login)
+4. ❗️ Opened issue [#12](https://github.com/WebDevSimplified/Nodejs-Passport-Login/issues/12) in [WebDevSimplified/Nodejs-Passport-Login](https://github.com/WebDevSimplified/Nodejs-Passport-Login)
 5. 🈂 Created Another **Private** Repo for My project [Allaisa/age-calculator](https://github.com/Allaisa/age-calculator)
 <!--END_SECTION:activity-->
 
