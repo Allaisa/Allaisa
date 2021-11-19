@@ -24,8 +24,6 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ML Savage Moskov -Sтʀɪᴋɛ &#39;](https://www.youtube.com/watch?v=Bq_0xopHpSc)
-- [ML Account Reveal -Sтʀɪᴋɛ &#39;](https://www.youtube.com/watch?v=TKDqAXncqGo)
 <!-- YOUTUBE:END -->
 
 <!-- ➡️ [more videos...](https://www.youtube.com/channel/UC6QnV_t2zZ3IhaLydounAlQ) -->
@@ -48,7 +46,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Allaisa&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Allaisa&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
