@@ -25,6 +25,8 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ML Savage Moskov -Sтʀɪᴋɛ &#39;](https://www.youtube.com/watch?v=Bq_0xopHpSc)
+- [ML Account Reveal -Sтʀɪᴋɛ &#39;](https://www.youtube.com/watch?v=TKDqAXncqGo)
 <!-- YOUTUBE:END -->
 
 <!-- ➡️ [more videos...](https://www.youtube.com/channel/UC6QnV_t2zZ3IhaLydounAlQ) -->
