@@ -13,7 +13,8 @@
 
 [<img align="left" alt="strike-yt.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://strike-yt.netlify.app/)
 [<img align="left" alt="Sтʀɪᴋɛ ' | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC6QnV_t2zZ3IhaLydounAlQ)
-[<img align="left" alt="Sтʀɪᴋɛ ' | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/znQvJnhmfu)
+[<img align="left" alt="Sтʀɪᴋɛ ' | Discord" width="22px" src="https://img.shields.io/discord/847156936944254997" />](https://discord.gg/znQvJnhmfu)
+<!-- [<img align="left" alt="Sтʀɪᴋɛ ' | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/znQvJnhmfu) -->
 
 <!-- <br /> -->
 <br />
@@ -46,8 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<!--   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Allaisa&show_icons=true&hide_border=true&theme=cobalt" /> -->
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Allaisa&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Allaisa&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
