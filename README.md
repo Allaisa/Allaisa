@@ -13,7 +13,7 @@
 
 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6QnV_t2zZ3IhaLydounAlQ?color=%23ff2828&label=YOUTUBE&logo=YouTube&logoColor=%23ff3d3d&style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6QnV_t2zZ3IhaLydounAlQ?color=%23ff2828&label=YOUTUBE&logo=YouTube&logoColor=%23ff3d3d&style=for-the-badge&url=https://www.youtube.com/channel/UC6QnV_t2zZ3IhaLydounAlQ)
 <br>
 
 ![Discord](https://img.shields.io/discord/847156936944254997?color=%23ff38f8&label=Strikes%27s%20Magical%20World&logo=Discord&logoColor=%230066ff&style=for-the-badge)
