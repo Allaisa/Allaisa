@@ -13,7 +13,8 @@
 
 [<img align="left" alt="strike-yt.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://strike-yt.netlify.app/)
 [<img align="left" alt="Sтʀɪᴋɛ ' | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC6QnV_t2zZ3IhaLydounAlQ)
-[<img align="left" alt="Sтʀɪᴋɛ ' | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/znQvJnhmfu)
+<!-- [<img align="left" alt="Sтʀɪᴋɛ ' | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/znQvJnhmfu) -->
+[<img align="left" alt="Sтʀɪᴋɛ ' | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/users/783553221955682336)
 
 <!-- <br /> -->
 <br />
