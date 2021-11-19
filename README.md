@@ -35,6 +35,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Reopened issue [#13](https://github.com/WebDevSimplified/Nodejs-Passport-Login/issues/13) in [WebDevSimplified/Nodejs-Passport-Login](https://github.com/WebDevSimplified/Nodejs-Passport-Login)
+2. ❗️ Closed issue [#13](https://github.com/WebDevSimplified/Nodejs-Passport-Login/issues/13) in [WebDevSimplified/Nodejs-Passport-Login](https://github.com/WebDevSimplified/Nodejs-Passport-Login)
+3. ❗️ Opened issue [#13](https://github.com/WebDevSimplified/Nodejs-Passport-Login/issues/13) in [WebDevSimplified/Nodejs-Passport-Login](https://github.com/WebDevSimplified/Nodejs-Passport-Login)
+4. ❗️ Opened issue [#12](https://github.com/WebDevSimplified/Nodejs-Passport-Login/issues/12) in [WebDevSimplified/Nodejs-Passport-Login](https://github.com/WebDevSimplified/Nodejs-Passport-Login)
 <!--END_SECTION:activity-->
 
 </details>
