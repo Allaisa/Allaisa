@@ -13,7 +13,7 @@
 
 [<img align="left" alt="strike-yt.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://strike-yt.netlify.app/)
 [<img align="left" alt="Sтʀɪᴋɛ ' | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC6QnV_t2zZ3IhaLydounAlQ)
-[<img align="left" alt="Sтʀɪᴋɛ ' | Discord" width="22px" src="https://img.shields.io/discord/847156936944254997" />](https://discord.gg/znQvJnhmfu)
+[<img align="left" alt="Sтʀɪᴋɛ ' | Discord" width="22px" src="https://img.shields.io/discord/:847156936944254997" />](https://discord.gg/znQvJnhmfu)
 <!-- [<img align="left" alt="Sтʀɪᴋɛ ' | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/znQvJnhmfu) -->
 
 <!-- <br /> -->
@@ -25,8 +25,6 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ML Savage Moskov -Sтʀɪᴋɛ &#39;](https://www.youtube.com/watch?v=Bq_0xopHpSc)
-- [ML Account Reveal -Sтʀɪᴋɛ &#39;](https://www.youtube.com/watch?v=TKDqAXncqGo)
 <!-- YOUTUBE:END -->
 
 <!-- ➡️ [more videos...](https://www.youtube.com/channel/UC6QnV_t2zZ3IhaLydounAlQ) -->
