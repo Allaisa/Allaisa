@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people
-- ⚡ Weird fact: I love to do sport stacking(weird right?)
+- ⚡ Weird fact: Other Than Coding I love to do sport stacking
 
 ### Connect with me:
 
